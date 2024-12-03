@@ -1,13 +1,10 @@
 
-
-
-           TEAM NAME : QuadraInnovators 
-
-Name of Students :
-Neet Chopra 
-Priyansh Vaghela 
-Nishita Sheth
-Radhika Tiwari
+     TEAM NAME : QuadraInnovators 
+      Name of Students :
+      Neet Chopra 
+      Priyansh Vaghela 
+      Nishita Sheth
+      Radhika Tiwari
 
 1. Collect Historical Stock Data
 
