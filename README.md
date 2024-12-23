@@ -15,7 +15,7 @@
 
 	•	Simple Moving Average (SMA):
 
-SMA = \frac{\text{Sum of Closing Prices over n periods}}{n}
+SMA = Sum of Closing Prices over n periods/n
 
 	•	Exponential Moving Average (EMA): Gives more weight to recent prices.
 	•	Choosing Periods:
